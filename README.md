@@ -1,0 +1,2 @@
+# zhenxun_plugin_xslist
+移植自sagiribot的那种老师查询，由于网站做了反爬，目前只能文字查询
